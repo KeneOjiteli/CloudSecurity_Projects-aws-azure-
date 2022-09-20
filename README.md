@@ -1,2 +1,2 @@
 # CloudSecurity_Projects-aws-azure-
-This is a combination of both AWS and azure hands on projects
+This repository will be used to save my progress in my cloud security journey as I get to do various hands-on projects on cloud service providers such as Amazon Web Services (AWS) and Azure.
