@@ -41,7 +41,7 @@
 
 #### RECOMMENDATIONS
 
-- It is recommended to do this project on an IAM user's account (by default, an IAM user has no permission, it is advisablw to give the IAM user permission to perform this function).
+- It is recommended to do this project on an IAM user's account (by default, an IAM user has no permission, it is advisable to give the IAM user permission to perform this function).
 - Bucket names are unique, that is one bucket name cannot be used more than once, aways give your bucket realistic names.
 - Always enable static hosting and uncheck block public access settings for the bucket housing static files to make these files publicly accessible.
 - Ensure that the bucket policy has the name of the bucket housing the static files, also ensure that each opening bracket or curly brace has a corresponding closing brace / curly bracket.
